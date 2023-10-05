@@ -1,0 +1,7 @@
+Task 1 Completed: Local Code Repository Setup
+
+   - Task: Set up a local Git repository on your computer and create a new text file in it. Add some text to the file and commit it to the repository.
+
+
+   - Challenge: Understand the basic Git commands for initializing a repository, adding files, and committing changes.
+
