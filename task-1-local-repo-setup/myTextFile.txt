@@ -5,3 +5,11 @@ Task 1 Completed: Local Code Repository Setup
 
    - Challenge: Understand the basic Git commands for initializing a repository, adding files, and committing changes.
 
+
+Task 2 Completed: Creating and Switching Between Branches
+
+
+   - Task: Create a new branch in your Git repository. Make changes to the text file in this branch, and then switch back to the main branch. Compare the contents of the file in each branch.
+
+
+   - Challenge: Learn how to create and switch between branches in Git, and understand the concept of branching.
